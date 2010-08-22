@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#!/usr/bin/python
 # $Id$
 version = 'CVS ' + '$Revision$'.split()[1]
 #

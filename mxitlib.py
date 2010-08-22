@@ -1,5 +1,3 @@
-#! /usr/bin/env python
-
 # MXit driver test script.
 from mxit_helpers import *
 from mxit.encryption import client_id, encode_password
